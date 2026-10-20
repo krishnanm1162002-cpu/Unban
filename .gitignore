@@ -1,6 +1,0 @@
-# TestDriver.ai
-.env
-node_modules/
-test-results/
-.testdriver/
-*.log
